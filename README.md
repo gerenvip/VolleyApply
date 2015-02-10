@@ -1,0 +1,2 @@
+# VolleyApply
+基于volley进行封装，使用更简便；修复volley因为调大缓存大小容易导致oom的缺点
